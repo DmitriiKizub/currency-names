@@ -25,3 +25,6 @@ def hello():
         return result
 if __name__ == "__main__":
         app.run()
+
+b= 5
+print(b)
